@@ -1,6 +1,6 @@
 # Rectangle Area Calculator 🟦
 
-This repository contains a simple Python script that calculates the area of a rectangle based on user input. It was created as part of ATMS 523 Assignment 1 to demonstrate basic Python functionality and GitHub workflows.
+This repository contains a simple Python script that calculates the area of a rectangle based on user input. It was created in Visual Studio as part of ATMS 523 Assignment 1 to demonstrate basic Python functionality and GitHub workflows.
 
 ## 🚀 How to Run
 
